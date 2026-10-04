@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Thi Đua Lớp 4A3 – TH Thạnh Xuân",
+  "description": "Hệ thống quản lý nề nếp, thi đua, điểm cộng trừ, nhận xét học sinh và tổng kết thi đua Lớp 4A3 Trường Tiểu học Thạnh Xuân",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
